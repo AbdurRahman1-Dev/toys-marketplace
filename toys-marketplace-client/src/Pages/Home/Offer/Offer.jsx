@@ -11,7 +11,9 @@ const Offer = () => {
 
 
   return (
-    <div data-aos="zoom-in" className=" hero h-72  object-left  duration-300 " style={{ backgroundImage: `url("https://demoprestashop.aeipix.com/AX06/mixeat115/shop3/modules/aei_cmsbanner/views/img/banner1.jpg")` }}>
+    <div 
+    data-aos="zoom-in" 
+    className=" hero h-72  object-left  duration-300 " style={{ backgroundImage: `url("https://demoprestashop.aeipix.com/AX06/mixeat115/shop3/modules/aei_cmsbanner/views/img/banner1.jpg")` }}>
   <div className="hero-overlay md:bg-opacity-20 bg-opacity-50"></div>
   <div className="w-full md:flex justify-end hero-content text-neutral-content">
     <div className="me-0 md:w-2/5">

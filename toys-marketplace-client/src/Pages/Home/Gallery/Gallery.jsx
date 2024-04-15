@@ -16,7 +16,9 @@ const Gallery = () => {
         <p className="border-red-600 border-b-4 inline-block">Gallery</p>
       </div>
 
-      <div data-aos="flip-right" className="grid  grid-cols-2 md:grid-cols-2 lg:grid-cols-3 gap-1 overflow-hidden">
+      <div
+       data-aos="flip-right"
+        className="grid  grid-cols-2 md:grid-cols-2 lg:grid-cols-3 gap-1 overflow-hidden">
         <div >
           <img className="w-full h-44 md:h-72 object-cover object-center" src="https://images.pexels.com/photos/54278/pexels-photo-54278.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="" />
         </div>
